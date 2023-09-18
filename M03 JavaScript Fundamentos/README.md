@@ -92,7 +92,10 @@ En los siguientes 9 ejercicios deberás desarrollar funciones que incluyen lógi
 Te invitamos, cada vez que termines una homework, a que subas tus avances a tu repositorio. ¿Recordemos cómo hacer esto?
 
 Deberás ejecutar estos comandos:
+<<<<<<< HEAD
 
+=======
+>>>>>>> ad3b1bd024d041fef72e65232077df2ac0e24c73
 ```bash
 git add .
 // Este comando te permitirá guardar tus cambios en Git.
